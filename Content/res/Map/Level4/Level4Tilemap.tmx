@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="145" height="30" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="153">
- <tileset firstgid="1" source="../Terrain (16x16).tsx"/>
+ <tileset firstgid="1" source="Terrain_v2 (16x16).tsx"/>
  <tileset firstgid="375" name="Trampoline_Idle" tilewidth="28" tileheight="11" tilecount="1" columns="1">
   <image source="../../Traps/Trampoline/Trampoline_Idle.png" width="28" height="11"/>
  </tileset>

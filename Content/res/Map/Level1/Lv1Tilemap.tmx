@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="45" height="42" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="67">
- <tileset firstgid="1" source="../Terrain (16x16).tsx"/>
+ <tileset firstgid="1" source="Terrain_v2 (16x16).tsx"/>
  <tileset firstgid="375" name="Box1_Idle" tilewidth="28" tileheight="24" tilecount="1" columns="1">
   <image source="../../Items/Boxes/Box1/Box1_Idle.png" width="28" height="24"/>
  </tileset>

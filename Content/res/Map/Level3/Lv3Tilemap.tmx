@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="92">
- <tileset firstgid="1" source="../Terrain (16x16).tsx"/>
+ <tileset firstgid="1" source="Terrain_v2 (16x16).tsx"/>
  <tileset firstgid="375" name="Saw_Off" tilewidth="38" tileheight="38" tilecount="1" columns="1">
   <image source="../../Traps/Saw/Saw_Off.png" width="38" height="38"/>
  </tileset>
