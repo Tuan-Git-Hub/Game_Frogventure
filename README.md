@@ -13,3 +13,5 @@
 **Move and jump**
 * PC: Control via arrow key
 * Android: Press virtual button on phone screen
+
+*Links: https://tuan-m.itch.io/frogventure*
