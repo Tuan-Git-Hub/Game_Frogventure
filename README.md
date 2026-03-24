@@ -7,6 +7,7 @@
 * Engine: Axmol Engine
 * Graphics: 2D, HD resolution (640x360 pixels)
 * Art Style: Cartoonish, pixel
+* This is a level-based game where you simply need to overcome obstacles and reach the finish line before time runs out
 
 ## Controls
 
